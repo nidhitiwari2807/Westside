@@ -6,7 +6,7 @@ import Navbar from "./Components/Navbar";
 import Home from "./pages/Home";
 import ProductDetail from "./pages/ProductDetail";
 import Contact from "./pages/Contact";
-import Footer from "./components/Footer";
+import Footer from "./Components/Footer";
 
 function App() {
   return ( 
