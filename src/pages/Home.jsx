@@ -1,7 +1,7 @@
 import React from "react";
-import Trending from "../components/Trending";
+import Trending from "../Components/Trending";
 import HeroSection from "../Components/Categories";
-import CategoryScroll from "../components/Categories";
+import CategoryScroll from "../Components/Categories";
 
 export default function Home() {
   return (
