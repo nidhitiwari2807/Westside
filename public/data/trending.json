@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Red Dress", "price": 49, "image": "https://images.unsplash.com/photo-1618354695743-4f27c95b0a0c?auto=format&fit=crop&w=400&q=80" },
+  { "id": 2, "name": "Leather Jacket", "price": 120, "image": "https://images.unsplash.com/photo-1602810314355-1fae1e89d55a?auto=format&fit=crop&w=400&q=80" },
+  { "id": 3, "name": "Sneakers", "price": 80, "image": "https://images.unsplash.com/photo-1618354695760-7b2d0c9dcbf7?auto=format&fit=crop&w=400&q=80" },
+  { "id": 4, "name": "Bag", "price": 60, "image": "https://images.unsplash.com/photo-1602810314347-01f38d02f3a6?auto=format&fit=crop&w=400&q=80" }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Men", "image": "https://images.unsplash.com/photo-1602810314311-df1c3f8f0f71?auto=format&fit=crop&w=400&q=80" },
+  { "id": 2, "name": "Women", "image": "https://images.unsplash.com/photo-1602810314322-32c3f1d42f72?auto=format&fit=crop&w=400&q=80" },
+  { "id": 3, "name": "Shoes", "image": "https://images.unsplash.com/photo-1602810314333-abc2f0a55f73?auto=format&fit=crop&w=400&q=80" },
+  { "id": 4, "name": "Accessories", "image": "https://images.unsplash.com/photo-1602810314344-1234abcd5678?auto=format&fit=crop&w=400&q=80" }
+]
