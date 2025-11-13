@@ -1,13 +1,13 @@
 import React from "react";
-import Categories from "../components/Categories";
 import Trending from "../components/Trending";
 import HeroSection from "../Components/Categories";
+import CategoryScroll from "../components/Categories";
 
 export default function Home() {
   return (
     <div>
       <HeroSection />
-      <Categories />
+      <CategoryScroll />
       <Trending />
     </div>
   );
