@@ -1,4 +1,3 @@
-import React from "react";
 
 import Categories from "../components/Categories";
 import Trending from "../components/Trending";
