@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-export default function Trending() {
+ function Trending() {
   const trends = [
     {
       title: "Urban Streetwear",
@@ -178,4 +178,7 @@ export default function Trending() {
     </div>
   );
 }
+
+
+export default Trending;
 
